@@ -8,15 +8,15 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class HelloController
+ * Servlet implementation class Controller2
  */
-public class HelloController extends HttpServlet {
+public class Controller2 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public HelloController() {
+    public Controller2() {
         super();
         // TODO Auto-generated constructor stub
     }
