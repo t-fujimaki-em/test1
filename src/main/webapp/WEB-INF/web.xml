@@ -19,4 +19,14 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Test_target_ignore</display-name>
+    <servlet-name>Test_target_ignore</servlet-name>
+    <servlet-class>Test_target_ignore</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Test_target_ignore</servlet-name>
+    <url-pattern>/Test_target_ignore</url-pattern>
+  </servlet-mapping>
 </web-app>
