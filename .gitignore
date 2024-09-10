@@ -1,0 +1,5 @@
+# コンパイル後のバイナリファイルを除外(class)
+*.class
+# buildとtarget/ディレクトリを無視する
+build/
+target/
